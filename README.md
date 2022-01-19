@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vitorh369
 - 👀 Procurando aprender +
-- 🌱 Atulamente aprendo Python
+- 🌱 Atulamente aprendendo Python
 - 📫 vitorgoncalves369@gmail.com
 
 <!---
